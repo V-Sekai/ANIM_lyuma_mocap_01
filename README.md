@@ -1,3 +1,3 @@
-# ANIM_mocap_lyuma_01
+# ANIM_mocap_lyuma
 
 A mocap animation for Godot Engine 4.1.
