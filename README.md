@@ -1,4 +1,4 @@
-# ANIM_mocap_lyuma
+# ANIM_test_assets
 
 ![editor_screenshot_2023-11-29T223830](editor_screenshot_2023-11-29T223830.png)
 
